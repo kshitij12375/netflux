@@ -217,12 +217,12 @@ section.first > div :nth-child(2){
 @media only screen and (max-width:450px){
 #first-second{
     position: relative;
-    left: 200px;
+    left: 500px;
 }}
 @media only screen and (max-width:850px){
     #first-second{
         position: relative;
-        left: 600px;
+        left: 500px;
     }
 
 }
